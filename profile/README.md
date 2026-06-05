@@ -1,4 +1,4 @@
-# Florida Gulf Coast University Internal Repository
+# Florida Gulf Coast University Data Management Internal Repository
 
 This GitHub organization and its repositories support internal Florida Gulf Coast University data management, analytics, integration, and platform operations.
 
