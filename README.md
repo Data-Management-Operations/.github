@@ -52,11 +52,11 @@ Do not store:
 
 ## Internal Documentation
 
-Internal documentation belongs in private or internal repositories, such as:
+Internal documentation belongs in private or internal repositories.
 
 ## Internal Member Profile
 
-Member-only GitHub organization guidance should be maintained separately in:
+Member-only GitHub organization guidance should be maintained separately.
 
 ## Maintenance
 
